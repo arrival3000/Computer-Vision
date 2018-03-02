@@ -1,0 +1,9 @@
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\bin\Debug\Entry test.exe.config
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\bin\Debug\Entry test.exe
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\bin\Debug\Entry test.pdb
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry test.csprojResolveAssemblyReference.cache
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry_test.Form1.resources
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry_test.Properties.Resources.resources
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry test.csproj.GenerateResource.Cache
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry test.exe
+C:\Users\duhag\Documents\Visual Studio 2017\Projects\Computer Vision\Entry test\Entry test\obj\Debug\Entry test.pdb
